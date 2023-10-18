@@ -29,7 +29,8 @@
     "typescript": "^5"
   },
   "ampt": {
-    "app": "nextjs",
-    "runtime": "nodejs18"
+    "app": "ampt-poc-sandy",
+    "runtime": "nodejs18",
+    "org": "sandykumar93"
   }
 }
